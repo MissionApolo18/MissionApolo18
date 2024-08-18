@@ -1,7 +1,7 @@
 <h1 align="center"> 🌸¡Bienvenido a mi perfil!🌸 </h1>
 
 <h2> 😺¿Quién soy?😺</h2>
-Actualmente soy estudiante de Ingeniería en Computación. En mis tiempos libres me dedico al <strong>bodybuilding</strong>
+Actualmente soy estudiante de Ingeniería en Computación. En mis tiempos libres me dedico al <strong>bodybuilding</strong> o al <strong>cosplay</strong>
 
 Me apasionan los temas de:
 
