@@ -7,7 +7,6 @@
 <ul style="color: #991e34;">
 
  - Networking 
-
  - Deep learning
  - IA
  - Ciberscurity
@@ -16,7 +15,10 @@
 <h2 style="color: #991e34;">💬 Mis Lenguajes 💬</h2>
 <p align="center" style="background-color: #210f13; padding: 20px; border-radius: 15px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,mysql,html,pug,css,cpp,c,jupyter&perline=5" alt="Lenguajes y tecnologías"/>
+    <img src="https://skillicons.dev/icons?i=java,python,js,mysql,html&perline=5" alt="Lenguajes y tecnologías"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pug,css,cpp,c&perline=5" alt="Lenguajes y tecnologías"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="48" height="48" style="margin-left: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48" height="48" style="margin-left: 10px;"/>
@@ -41,10 +43,9 @@
 
 <h2 style="color: #991e34;">📊 GitHub Stats 📊</h2>
 
-<p align="center" style="background-color: #210f13; padding: 20px; border-radius: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MissionApolo18&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissionApolo18&layout=compact&theme=radical" alt="Top Languages">
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MissionApolo18&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MissionApolo18&langs_count=20&layout=compact&theme=radical)
 
 <h2 style="color: #991e34;">🔗Mis redes sociales🔗</h2>
 <p style="color: #991e34;">
@@ -52,9 +53,7 @@ Estos son los sitios web en los que me puedes encontrar:
 </p>
 
 <ul style="color: #991e34;">
-   -  <a href="https://x.com/Atenex4?s=09" style="color: #991e34;">🐦 X 🐦</a><br>
    - <a href="www.linkedin.com/in/missionapolo18" style="color: #991e34;">🟦 LinkedIn 🟦</a><br>
-   - <a href="https://www.instagram.com/mission_apolo18/" style="color: #991e34;">📷 Instagram 📷</a><br>
    - <a href="https://open.spotify.com/user/317dz2xqnjlkeijhthgxafsbujk4" style="color: #991e34;">🎵 Spotify 🎵</a><br>
    - <a href="https://www.tinkercad.com/users/dQbOdcQa6it-angela-atenea-larios-gutierrez" style="color: #991e34;">🧮 Tinkercad 🧮</a>
 </ul>
