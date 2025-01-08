@@ -1,43 +1,46 @@
-<h1 align="center" style="background-color: #490c19; color: white; padding: 20px; border-radius: 15px;"> 🌸¡Bienvenido a mi perfil!🌸 </h1>
+<h1 align="center"> 🌸Welcome to my GitHub Profile!🌸 </h1>
 
-<h2 style="color: #991e34;"> 😺¿Quién soy?😺</h2>
-<p>Actualmente soy estudiante de Ingeniería en Computación. En mis tiempos libres me dedico al <strong>bodybuilding</strong> o al <strong>cosplay</strong></p>
+<h2 style="color: #991e34;"> 😺Who am I?😺</h2>
+<p>I am currently a <strong>Computer Engineering student</strong>. In my free time, I enjoy <strong>bodybuilding</strong> or <strong>cosplaying</strong>.</p>
 
-<p>Me apasionan los temas de:</p>
-<ul style="color: #991e34;">
+<p>I am passionate about:</p>
 
- - Networking 
- - Deep learning
- - IA
- - Ciberscurity
-</ul>
+![Big Data](https://img.shields.io/badge/Big_Data-In_progress-991e34?style=for-the-badge&logo=apache-spark)
 
-<h2 style="color: #991e34;">💬 Mis Lenguajes 💬</h2>
-<p align="center" style="background-color: #210f13; padding: 20px; border-radius: 15px;">
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-In_progress-490c19?style=for-the-badge&logo=hackthebox)
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-In_progress-991e34?style=for-the-badge&logo=tensorflow)
+
+![IA](https://img.shields.io/badge/IA-Passion-490c19?style=for-the-badge&logo=openai)
+
+![Networking](https://img.shields.io/badge/Networking-Hobbie-991e34?style=for-the-badge&logo=cisco)
+
+![WebDev](https://img.shields.io/badge/Web_Development-Hobbie-490c19?style=for-the-badge&logo=google)
+
+<h2 style="color: #991e34;">💬My Languages & Tools 💬</h2>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,js,mysql,html&perline=5" alt="Lenguajes y tecnologías"/>
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pug,css,cpp,c&perline=5" alt="Lenguajes y tecnologías"/>
+    <img src="https://skillicons.dev/icons?i=pug,css,cpp,c,nodejs&perline=5" alt="Lenguajes y tecnologías"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="48" height="48" style="margin-left: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48" height="48" style="margin-left: 10px;"/>
 </p>
 
-<h2 style="color: #991e34;">📜 Mis habilidades 📜</h2>
-<p align="center" style="background-color: #320b21; padding: 30px; border-radius: 15px; border: 2px solid #991e34;">
-  <img src="https://img.shields.io/badge/Resolución_de_problemas-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Resolución de problemas Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Interacción_Humano--Computadora-0088CC?style=for-the-badge&logo=google&logoColor=white" alt="Interacción humano-computadora Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Software_de_Sistemas-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Software de sistemas Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Comunicación-FF69B4?style=for-the-badge&logo=slides&logoColor=white" alt="Comunicación Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Principios_de_Programación-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Principios de programación Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Arquitectura_de_Computadoras-ED8B00?style=for-the-badge&logo=intel&logoColor=white" alt="Arquitectura de computadoras Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Soporte_al_Cliente-0078D6?style=for-the-badge&logo=customer-support&logoColor=white" alt="Soporte al cliente Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Probabilidad_y_Estadísticas-0099CC?style=for-the-badge&logo=rstudio&logoColor=white" alt="Probabilidad y estadísticas Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Aprendizaje_Humano-9146FF?style=for-the-badge&logo=learning&logoColor=white" alt="Aprendizaje humano Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Adaptabilidad-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Adaptabilidad Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Pensamiento_Crítico-9C27B0?style=for-the-badge&logo=critical-role&logoColor=white" alt="Pensamiento crítico Badge" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/Lógica_Computacional-5C2D91?style=for-the-badge&logo=logic-pro&logoColor=white" alt="Lógica computacional Badge" style="margin: 5px;"/>
+<h2 style="color: #991e34;">📜 My skills 📜</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Algorithmic_Thinking-991e34?style=for-the-badge&logo=graphviz&logoColor=white" alt="Algorithmic Thinking Badge"/>
+  <img src="https://img.shields.io/badge/Analytical_Thinking-490c19?style=for-the-badge&logo=bar-chart&logoColor=white" alt="Analytical Thinking Badge"/>
+  <img src="https://img.shields.io/badge/Critical_Thinking-AC5840?style=for-the-badge&logo=critical-role&logoColor=white" alt="Critical Thinking Badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-red?style=for-the-badge&logo=python&logoColor=white" alt="Problem Solving Badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning_Algorithms-991e34?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning Algorithms Badge"/>
+  <img src="https://img.shields.io/badge/Programming_Principles-490c19?style=for-the-badge&logo=javascript&logoColor=white" alt="Programming Principles Badge"/>
+  <img src="https://img.shields.io/badge/Python_Programming-AC5840?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Badge"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-AC5840?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis Badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-991e34?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity Badge"/>
+  <img src="https://img.shields.io/badge/Privacy_&_Data_Confidentiality-490c19?style=for-the-badge&logo=lock&logoColor=black" alt="Privacy & Data Confidentiality Badge"/>
 </p>
 
 
@@ -47,13 +50,16 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MissionApolo18&langs_count=20&layout=compact&theme=radical)
 
-<h2 style="color: #991e34;">🔗Mis redes sociales🔗</h2>
-<p style="color: #991e34;">
-Estos son los sitios web en los que me puedes encontrar:
+<h2 style="color: #991e34;">🏆 GitHub Achievements 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MissionApolo18&theme=radical" alt="GitHub Trophies">
 </p>
 
-<ul style="color: #991e34;">
-   - <a href="www.linkedin.com/in/missionapolo18" style="color: #991e34;">🟦 LinkedIn 🟦</a><br>
-   - <a href="https://open.spotify.com/user/317dz2xqnjlkeijhthgxafsbujk4" style="color: #991e34;">🎵 Spotify 🎵</a><br>
-   - <a href="https://www.tinkercad.com/users/dQbOdcQa6it-angela-atenea-larios-gutierrez" style="color: #991e34;">🧮 Tinkercad 🧮</a>
+<h2 style="color: #991e34;">🔗Connect with me🔗</h2>
+You can find me on:
+
+<ul>
+   - <a href="www.linkedin.com/in/missionapolo18">🟦 LinkedIn 🟦</a><br>
+   - <a href="https://open.spotify.com/user/317dz2xqnjlkeijhthgxafsbujk4">🎵 Spotify 🎵</a><br>
+   - <a href="https://www.tinkercad.com/users/dQbOdcQa6it-angela-atenea-larios-gutierrez">🧮 Tinkercad 🧮</a>
 </ul>
