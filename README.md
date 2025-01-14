@@ -30,6 +30,7 @@
 </p>
 
 <h2 style="color: #991e34;">📜 My skills 📜</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithmic_Thinking-991e34?style=for-the-badge&logo=graphviz&logoColor=white" alt="Algorithmic Thinking Badge"/>
   <img src="https://img.shields.io/badge/Analytical_Thinking-490c19?style=for-the-badge&logo=bar-chart&logoColor=white" alt="Analytical Thinking Badge"/>
@@ -60,6 +61,6 @@ You can find me on:
 
 <ul>
    - <a href="www.linkedin.com/in/missionapolo18">🟦 LinkedIn 🟦</a><br>
-   - <a href="https://open.spotify.com/user/317dz2xqnjlkeijhthgxafsbujk4">🎵 Spotify 🎵</a><br>
+   - <a href="">📜 My blog 📜</a><br>
    - <a href="https://www.tinkercad.com/users/dQbOdcQa6it-angela-atenea-larios-gutierrez">🧮 Tinkercad 🧮</a>
 </ul>
