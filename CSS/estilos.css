@@ -179,7 +179,7 @@ section h2 {
 
 /* Skills Section */
 
-#skills {
+#skills, #research-interests {
     padding: 4rem 2rem;
     background-color: rgba(255, 255, 255, 0.05);
     border-radius: 10px;
@@ -188,7 +188,7 @@ section h2 {
     max-width: 1200px;
 }
 
-.skills-container {
+.skills-container, .grid-section {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
@@ -212,9 +212,9 @@ section h2 {
 }
 
 .card {
-    background: rgba(255, 255, 255, 0.1); 
+    background: rgba(255, 255, 255, 0.1);
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     overflow: hidden;
     width: 250px;
     cursor: pointer;
@@ -223,12 +223,12 @@ section h2 {
 
 .card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4); 
-    background-color: rgba(140, 47, 72, 0.9); 
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+    background-color: rgba(140, 47, 72, 0.9);
 }
 
 .card-header {
-    background-color: rgba(140, 47, 72, 0.8); 
+    background-color: rgba(140, 47, 72, 0.8);
     color: #fbe9e8;
     font-weight: bold;
     padding: 1rem;
@@ -237,7 +237,7 @@ section h2 {
 }
 
 .card-content {
-    background-color: rgba(255, 255, 255, 0.05); 
+    background-color: rgba(255, 255, 255, 0.05);
     padding: 1rem;
     display: none;
     text-align: left;
@@ -254,7 +254,7 @@ section h2 {
     margin: 0.5rem 0;
     font-size: 1rem;
     line-height: 1.4;
-    color: #fbe9e8; 
+    color: #fbe9e8;
 }
 
 .card.open .card-content {
@@ -263,6 +263,84 @@ section h2 {
 
 /*Badges*/
 
+.badges-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.badge {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 300px;
+    overflow: hidden;
+}
+
+.badge:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.badge div[data-iframe-width] {
+    margin: 0 auto;
+    width: 250px;
+    height: 250px;
+}
+
+/*Hobbies*/
+#hobbies-interests {
+    text-align: center;
+    padding: 4rem 2rem;
+}
+
+.hobbies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+    margin-top: 2rem;
+}
+
+.hobby {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.hobby:hover {
+    transform: scale(1.1);
+    background-color: #8c2f48;
+    color: #fff;
+}
+
+.hobby img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 0.5rem;
+}
+
+.hobby p {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fbe9e8;
+}
+
+.instagram-media {
+    max-width: 500px; 
+    margin: 0 auto; 
+  }
 
 /* Footer */
 footer {
