@@ -25,20 +25,100 @@
 
   <!-- Home Section -->
   <section id="home">
-    <h1>Welcome</h1>
-    <p>Dive into my world of tech, design, and creativity.</p>
-    <a href="docs/CurriculumEng2.pdf" download class="button">Download CV</a>
+    <!-- Welcome  -->
+    <div id="welcome">
+      <h1>Welcome</h1>
+      <p>Dive into my world of tech, design, and creativity.</p>
+      <a href="docs/CurriculumEng2.pdf" download class="button">Download CV</a>
+    </div>
+
+    <!-- Contact  -->
+    <div id="contact1">
+      <h2>Contact</h2>
+      <p>Feel free to reach out to discuss ideas or collaborate!</p>
+      <ul class="social-links">
+        <li><a href="MoreAboutMe.html">More About Me</a></li>
+        <li><a href="https://www.linkedin.com/in/missionapolo18" target="_blank"><i class="fab fa-linkedin"></i>
+            LinkedIn</a></li>
+        <li><a href="https://github.com/MissionApolo18" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+        <li><a href="mailto:ateneagutierrez17@aragon.unam.mx"><i class="fas fa-envelope"></i> Email</a></li>
+        
+      </ul>
+    </div>
+
+    <!-- About  -->
+    <div id="about">
+      <h2>About Me</h2>
+      <p>
+        I’m a tech enthusiast passionate about blending technology, art, and innovation.
+        My interests lie in AI, cybersecurity, and Big Data, and I love helping others
+        overcome challenges in these fields.
+      </p>
+      <img src="img/me.jpg" alt="Your Photo" width="300">
+    </div>
   </section>
 
-  <!-- About Section -->
-  <section id="about">
-    <h2>About Me</h2>
-    <p>
-      I’m a tech enthusiast passionate about blending technology, art, and innovation.
-      My interests lie in AI, cybersecurity, and Big Data, and I love helping others
-      overcome challenges in these fields.
-    </p>
-    <img src="img/me.jpg" alt="Your Photo" width="300">
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="carousel">
+      <button class="carousel-btn prev-btn">&lt;</button>
+      <div class="carousel-track-container">
+        <ul class="carousel-track">
+          <li class="carousel-card">
+            <img src="https://media.giphy.com/media/fAmnJKCwuXtDiEhNwg/giphy.gif" alt="Coming Soon">
+            <h3>Coming Soon More Projects</h3>
+            <p>I am trying to improve and find new skills, hobbies and interests.</p>
+          </li>
+          <li class="carousel-card">
+            <img
+              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVqeXRnczVhZmVqMnVleWU0bGRlcXA1Y3IyMGR1d29zaXd3amx4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giXLnhxp60zEEIkq8K/giphy.gif"
+              alt="Shopping cart">
+            <h3>Videogames Shopping Cart</h3>
+            <p>Here is a quick overview of what a video game shopping page for 3 developer companies would look like.
+              This project aims to achieve the following:</p>
+            <p>A shopping cart to add or remove items.</p>
+            <p>The implementation of Node.js modules.</p>
+            <a href="https://github.com/MissionApolo18/ProyectoCarrito" class="btn">View More</a>
+          </li>
+          <li class="carousel-card">
+            <img src="https://media.giphy.com/media/uZ4qbVR1oidgDUqMbo/giphy.gif" alt="Introduction to Big Data">
+            <h3>Introduction to Big Data</h3>
+            <p>This project focuses on big data analysis, utilizing Apache Spark for data processing. It includes
+              Jupyter notebooks which demonstrate the use of Spark for various data analysis tasks.</p>
+            <a href="https://github.com/MissionApolo18/AnalisisMacrodatos" class="btn">View More</a>
+          </li>
+          <li class="carousel-card">
+            <img src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" alt="WebDev attemp">
+            <h3>Functional Web Application</h3>
+            <p>This project showcases assignments and a final project developed during a web programming course.</p>
+            <p>It highlights the integration of HTML, CSS, JavaScript, and PHP to create a functional web application,
+              including database connectivity and dynamic content management.</p>
+            <a href="https://github.com/MissionApolo18/ProgramacionWeb1510" class="btn">View More</a>
+          </li>
+          <li class="carousel-card">
+            <img src="https://media.giphy.com/media/3o6ZtaV6slZPhE0ftu/giphy.gif" alt="Project AI">
+            <h3>Introduction to AI</h3>
+            <p>This repository contains programs developed for an Introduction to Artificial Intelligence course.</p>
+            <p>It includes implementations of various AI algorithms and techniques, such
+              as informed search algorithms, IDA* algorithm, metaheuristics, decision processes, blind search methods,
+              Bayesian networks, and Rubik's cube solvers.</p>
+            <a href="https://github.com/MissionApolo18/CursoIA" class="btn">View More</a>
+          </li>
+          <li class="carousel-card">
+            <img src="https://media.giphy.com/media/3o7TKpmHsAZiTTekve/giphy.gif" alt="OOP course">
+            <h3>OOP Course</h3>
+            <p>This project is based on the implementation of JavaFXML for creating interfaces, as well as the
+              development and application of key object-oriented programming concepts such as inheritance and
+              polymorphism.</p>
+            <p>Unfortunately, the project is incomplete and contains numerous errors, not to mention the lack of
+              documentation.</p>
+            <a href="https://github.com/MissionApolo18/ProyectoPOO" class="btn">View More</a>
+          </li>
+        </ul>
+      </div>
+      <button class="carousel-btn next-btn">&gt;</button>
+    </div>
   </section>
 
   <!-- My Languages & Tools Section -->
@@ -72,6 +152,14 @@
             <img src="https://skillicons.dev/icons?i=mysql&perline=5" alt="MySQL" title="MySQL">
             <p>MySQL</p>
           </div>
+          <div class="language">
+            <img src="https://skillicons.dev/icons?i=kotlin&perline=5" alt="Kotlin" title="Kotlin">
+            <p>Kotlin</p>
+          </div>
+          <div class="language">
+            <img src="https://skillicons.dev/icons?i=php&perline=5" alt="PHP" title="PHP">
+            <p>PHP</p>
+          </div>
         </div>
       </div>
       <div class="tools">
@@ -102,6 +190,14 @@
           <div class="tool">
             <img src="https://skillicons.dev/icons?i=vscode&perline=5" alt="VS Code" title="VS Code">
             <p>VS Code</p>
+          </div>
+          <div class="tool">
+            <img src="https://skillicons.dev/icons?i=idea&perline=5" alt="IntelliJ" title="IntelliJ">
+            <p>IntelliJ</p>
+          </div>
+          <div class="tool">
+            <img src="https://skillicons.dev/icons?i=androidstudio&perline=5" alt="Android Studio" title="Android Studio">
+            <p>Android Studio</p>
           </div>
         </div>
       </div>
@@ -195,12 +291,17 @@
           data-share-badge-host="https://www.credly.com"></div>
         <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
       </div>
+      <div class="badge">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="189a8ca2-c1fd-425a-bc59-15988c97105a" 
+        data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      </div>
     </div>
   </section>
 
-  <!-- Interests Section -->
+  <!-- Interests Section 
   <section id="research-interests">
-    <h2>Research Iterests</h2>
+    <h2>Research Iterests (RM)</h2>
     <div class="grid-section">
       <div class="card">
         <div class="card-header">Technical</div>
@@ -242,117 +343,7 @@
       </div>
     </div>
   </section>
-  <!-- Hobbies Section -->
-  <section id="hobbies-interests">
-    <h2>Hobbies & Interests</h2>
-    <div class="hobbies-grid">
-      <div class="hobby">
-        <p>Making cosplay</p>
-        <div>
-          <blockquote class="instagram-media"
-            data-instgrm-permalink="https://www.instagram.com/p/DB0GWSHMwy4/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="
-            data-instgrm-version="14" style="background:#FFF; border:0; margin:1px; padding:0;">
-            <a href="https://www.instagram.com/p/DB0GWSHMwy4/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="
-              target="_blank"></a>
-          </blockquote>
-          <script async src="//www.instagram.com/embed.js"></script>
-        </div>
-      </div>
-      <div class="hobby">
-        <p>Digital Drawing</p>
-        <div>
-          <blockquote class="instagram-media"
-            data-instgrm-permalink="https://www.instagram.com/p/CUjl1oqg_Ya/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-            data-instgrm-version="14" style="background:#FFF; border:0; margin:1px; padding:0;">
-            <a href="https://www.instagram.com/p/CUjl1oqg_Ya/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-              target="_blank"></a>
-          </blockquote>
-          <script async src="//www.instagram.com/embed.js"></script>
-        </div>
-      </div>
-      <div class="hobby">
-        <p>Traditional Drawing</p>
-        <div>
-          <blockquote class="instagram-media"
-            data-instgrm-permalink="https://www.instagram.com/p/CYnBYRuJDU7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-            data-instgrm-version="14" style="background:#FFF; border:0; margin:1px; padding:0;">
-            <a href="https://www.instagram.com/p/CYnBYRuJDU7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-              target="_black"></a>
-          </blockquote>
-          <script async src="//www.instagram.com/embed.js"></script>
-        </div>
-      </div>
-      <!--
-      <div class="hobby">
-        <img src="travel-icon.png" alt="Travel">
-        <p>Travel</p>
-      </div>
-      -->
-    </div>
-  </section>
-
-  <!-- Projects Section -->
-  <section id="projects">
-    <h2>Projects</h2>
-    <div class="carousel">
-      <button class="carousel-btn prev-btn">&lt;</button>
-      <div class="carousel-track-container">
-        <ul class="carousel-track">
-          <li class="carousel-card">
-            <img src="https://media.giphy.com/media/fAmnJKCwuXtDiEhNwg/giphy.gif" alt="Coming Soon">
-            <h3>Coming Soon More Projects</h3>
-            <p>I am trying to improve and find new skills, hobbies and interests.</p>
-          </li>
-          <li class="carousel-card">
-            <img
-              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVqeXRnczVhZmVqMnVleWU0bGRlcXA1Y3IyMGR1d29zaXd3amx4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/giXLnhxp60zEEIkq8K/giphy.gif"
-              alt="Shopping cart">
-            <h3>Videogames Shopping Cart</h3>
-            <p>Here is a quick overview of what a video game shopping page for 3 developer companies would look like.
-              This project aims to achieve the following:</p>
-            <p>A shopping cart to add or remove items.</p>
-            <p>The implementation of Node.js modules.</p>
-            <a href="https://github.com/MissionApolo18/ProyectoCarrito" class="btn">View More</a>
-          </li>
-          <li class="carousel-card">
-            <img src="https://media.giphy.com/media/uZ4qbVR1oidgDUqMbo/giphy.gif" alt="Introduction to Big Data">
-            <h3>Introduction to Big Data</h3>
-            <p>This project focuses on big data analysis, utilizing Apache Spark for data processing. It includes
-              Jupyter notebooks which demonstrate the use of Spark for various data analysis tasks.</p>
-            <a href="https://github.com/MissionApolo18/AnalisisMacrodatos" class="btn">View More</a>
-          </li>
-          <li class="carousel-card">
-            <img src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" alt="WebDev attemp">
-            <h3>Functional Web Application</h3>
-            <p>This project showcases assignments and a final project developed during a web programming course.</p>
-            <p>It highlights the integration of HTML, CSS, JavaScript, and PHP to create a functional web application,
-              including database connectivity and dynamic content management.</p>
-            <a href="https://github.com/MissionApolo18/ProgramacionWeb1510" class="btn">View More</a>
-          </li>
-          <li class="carousel-card">
-            <img src="https://media.giphy.com/media/3o6ZtaV6slZPhE0ftu/giphy.gif" alt="Project AI">
-            <h3>Introduction to AI</h3>
-            <p>This repository contains programs developed for an Introduction to Artificial Intelligence course.</p>
-            <p>It includes implementations of various AI algorithms and techniques, such
-              as informed search algorithms, IDA* algorithm, metaheuristics, decision processes, blind search methods,
-              Bayesian networks, and Rubik's cube solvers.</p>
-            <a href="https://github.com/MissionApolo18/CursoIA" class="btn">View More</a>
-          </li>
-          <li class="carousel-card">
-            <img src="https://media.giphy.com/media/3o7TKpmHsAZiTTekve/giphy.gif" alt="OOP course">
-            <h3>OOP Course</h3>
-            <p>This project is based on the implementation of JavaFXML for creating interfaces, as well as the
-              development and application of key object-oriented programming concepts such as inheritance and
-              polymorphism.</p>
-            <p>Unfortunately, the project is incomplete and contains numerous errors, not to mention the lack of
-              documentation.</p>
-            <a href="https://github.com/MissionApolo18/ProyectoPOO" class="btn">View More</a>
-          </li>
-        </ul>
-      </div>
-      <button class="carousel-btn next-btn">&gt;</button>
-    </div>
-  </section>
+  -->
 
   <!-- Contact Section -->
   <section id="contact">

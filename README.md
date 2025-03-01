@@ -61,6 +61,6 @@ You can find me on:
 
 <ul>
    - <a href="www.linkedin.com/in/missionapolo18">🟦 LinkedIn 🟦</a><br>
-   - <a href="">📜 My blog 📜</a><br>
+   - <a href="https://missionapolo18site.netlify.app/">📜 My blog 📜</a><br>
    - <a href="https://www.tinkercad.com/users/dQbOdcQa6it-angela-atenea-larios-gutierrez">🧮 Tinkercad 🧮</a>
 </ul>
