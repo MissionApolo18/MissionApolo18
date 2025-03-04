@@ -167,7 +167,6 @@ section h2 {
     border-radius: 10px;
     margin: 2rem auto;
     width: 90%;
-    max-width: 1200px;
 }
 
 .languages-tools-container {
@@ -241,8 +240,7 @@ section h2 {
     background-color: rgba(255, 255, 255, 0.05);
     border-radius: 10px;
     margin: 2rem auto;
-    width: 90%;
-    max-width: 1200px;
+    width: 90%
 }
 
 .skills-container,
@@ -326,8 +324,7 @@ section h2 {
     background-color: rgba(255, 255, 255, 0.05);
     border-radius: 10px;
     margin: 2rem auto;
-    width: 90%;
-    max-width: 1200px;
+    width: 90%
 }
 .badges-container {
     display: flex;
@@ -360,14 +357,13 @@ section h2 {
 }
 
 /*Projects*/
-#projects {
+#projects, #Pics {
     padding: 4rem 2rem;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.05);
     border-radius: 10px;
     margin: 2rem auto;
-    width: 90%;
-    max-width: 1200px;
+    width: 90%
 }
 
 #projects h2 {
@@ -435,6 +431,7 @@ section h2 {
     background-color: #5c2030;
     color: #2c061f;
 }
+
 
 .carousel-btn {
     position: absolute;
